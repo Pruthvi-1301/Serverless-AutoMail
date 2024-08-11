@@ -12,7 +12,7 @@
      * AWS Lambda
   * AWS CLI configured on your local machine.
   * Python 3.x installed on your local machine.
-  * 
+
 ## Architecture
 ![image](https://github.com/user-attachments/assets/7a9c760f-e575-45b7-966f-6a8d296b19c1)
 
