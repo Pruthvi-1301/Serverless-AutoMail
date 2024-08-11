@@ -1,7 +1,8 @@
 # Serverless-AutoMail
 
 ## Architecture
-![image](https://github.com/user-attachments/assets/7a9c760f-e575-45b7-966f-6a8d296b19c1)
+![image](https://github.com/user-attachments/assets/479ec83e-6b8e-4628-8d82-79d42a5f300c)
+
 
 ## Features
   * Automated Email Sending: Automatically sends emails based on specific triggers defined by the user.
